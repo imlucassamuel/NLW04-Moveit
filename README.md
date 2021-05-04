@@ -14,9 +14,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
-- [React](https://reactjs.org)
-- [Next.js](https://nextjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
+- React
+- Next.js
+- TypeScript
 
 ## 💻 Projeto
 
